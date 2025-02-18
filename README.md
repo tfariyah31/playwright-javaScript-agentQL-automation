@@ -8,6 +8,15 @@ A Playwright JavaScript automation framework for testing e-commerce web applicat
 * ✅ Self-healing capabilities via AgentQL SDK
 * ✅ Page Object Model (POM) for maintainability
 
+## 🔧 Technologies Used  
+
+- **Playwright** – Web automation framework  
+- **JavaScript** – Scripting language for automation  
+- **Node.js** – Runtime for JavaScript execution  
+- **AgentQL** – AI-powered element selection  
+- **Dotenv** – Secure environment variables  
+- 💻 **VS Code** – Code editor for development  
+
 ## 📂 Folder Structure
 ```bash
 📦 playwright-agentql-automation/
