@@ -15,7 +15,7 @@ A Playwright JavaScript automation framework for testing e-commerce web applicat
 - **Node.js** – Runtime for JavaScript execution  
 - **AgentQL** – AI-powered element selection  
 - **Dotenv** – Secure environment variables  
-- 💻 **VS Code** – Code editor for development  
+- **VS Code** – Code editor for development  
 
 ## 📂 Folder Structure
 ```bash
